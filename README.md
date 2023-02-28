@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :camera: Exploring with photography.
 
-- :zap: In my free time, I read books, solve problems.
+- :zap: In my free time, I read books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JanardanPethani-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/417cc73c4a4a415)
 
